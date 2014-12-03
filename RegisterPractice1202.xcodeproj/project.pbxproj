@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A20A93E6120C05FC65326DB5 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 8C29BEE14A91E91E0379EA3A /* libPods.a */; };
 		E85DEAD41A2D562900ADE57A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E85DEAD31A2D562900ADE57A /* main.m */; };
 		E85DEAD71A2D562900ADE57A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E85DEAD61A2D562900ADE57A /* AppDelegate.m */; };
 		E85DEADA1A2D562900ADE57A /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E85DEAD91A2D562900ADE57A /* ViewController.m */; };
@@ -14,6 +15,27 @@
 		E85DEADF1A2D562900ADE57A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E85DEADE1A2D562900ADE57A /* Images.xcassets */; };
 		E85DEAE21A2D562900ADE57A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = E85DEAE01A2D562900ADE57A /* LaunchScreen.xib */; };
 		E85DEAEE1A2D562900ADE57A /* RegisterPractice1202Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = E85DEAED1A2D562900ADE57A /* RegisterPractice1202Tests.m */; };
+		E85DEAF81A2D690500ADE57A /* alphacamp@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E85DEAF71A2D690500ADE57A /* alphacamp@2x.png */; };
+		E85DEB7A1A2EC29600ADE57A /* img_info _birth.png in Resources */ = {isa = PBXBuildFile; fileRef = E85DEB6A1A2EC29600ADE57A /* img_info _birth.png */; };
+		E85DEB7B1A2EC29600ADE57A /* img_info _birth@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E85DEB6B1A2EC29600ADE57A /* img_info _birth@2x.png */; };
+		E85DEB7C1A2EC29600ADE57A /* img_info_account.png in Resources */ = {isa = PBXBuildFile; fileRef = E85DEB6C1A2EC29600ADE57A /* img_info_account.png */; };
+		E85DEB7D1A2EC29600ADE57A /* img_info_account@2z.png in Resources */ = {isa = PBXBuildFile; fileRef = E85DEB6D1A2EC29600ADE57A /* img_info_account@2z.png */; };
+		E85DEB7E1A2EC29600ADE57A /* img_info_address.png in Resources */ = {isa = PBXBuildFile; fileRef = E85DEB6E1A2EC29600ADE57A /* img_info_address.png */; };
+		E85DEB7F1A2EC29600ADE57A /* img_info_address@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E85DEB6F1A2EC29600ADE57A /* img_info_address@2x.png */; };
+		E85DEB801A2EC29600ADE57A /* img_info_gender.png in Resources */ = {isa = PBXBuildFile; fileRef = E85DEB701A2EC29600ADE57A /* img_info_gender.png */; };
+		E85DEB811A2EC29600ADE57A /* img_info_gender@2z.png in Resources */ = {isa = PBXBuildFile; fileRef = E85DEB711A2EC29600ADE57A /* img_info_gender@2z.png */; };
+		E85DEB821A2EC29600ADE57A /* img_info_name.png in Resources */ = {isa = PBXBuildFile; fileRef = E85DEB721A2EC29600ADE57A /* img_info_name.png */; };
+		E85DEB831A2EC29600ADE57A /* img_info_name@2X.png in Resources */ = {isa = PBXBuildFile; fileRef = E85DEB731A2EC29600ADE57A /* img_info_name@2X.png */; };
+		E85DEB841A2EC29600ADE57A /* img_info_password.png in Resources */ = {isa = PBXBuildFile; fileRef = E85DEB741A2EC29600ADE57A /* img_info_password.png */; };
+		E85DEB851A2EC29600ADE57A /* img_info_password@2z.png in Resources */ = {isa = PBXBuildFile; fileRef = E85DEB751A2EC29600ADE57A /* img_info_password@2z.png */; };
+		E85DEB861A2EC29600ADE57A /* img_info_phone1.png in Resources */ = {isa = PBXBuildFile; fileRef = E85DEB761A2EC29600ADE57A /* img_info_phone1.png */; };
+		E85DEB871A2EC29600ADE57A /* img_info_phone1@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E85DEB771A2EC29600ADE57A /* img_info_phone1@2x.png */; };
+		E85DEB881A2EC29600ADE57A /* img_info_phone2.png in Resources */ = {isa = PBXBuildFile; fileRef = E85DEB781A2EC29600ADE57A /* img_info_phone2.png */; };
+		E85DEB891A2EC29600ADE57A /* img_info_phone2@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E85DEB791A2EC29600ADE57A /* img_info_phone2@2x.png */; };
+		E85DEB8F1A2EC36300ADE57A /* img_moredetail.png in Resources */ = {isa = PBXBuildFile; fileRef = E85DEB8B1A2EC36300ADE57A /* img_moredetail.png */; };
+		E85DEB901A2EC36300ADE57A /* img_moredetail@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E85DEB8C1A2EC36300ADE57A /* img_moredetail@2x.png */; };
+		E85DEB911A2EC36300ADE57A /* img_moreoption.png in Resources */ = {isa = PBXBuildFile; fileRef = E85DEB8D1A2EC36300ADE57A /* img_moreoption.png */; };
+		E85DEB921A2EC36300ADE57A /* img_moreoption@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E85DEB8E1A2EC36300ADE57A /* img_moreoption@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -27,6 +49,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		262C374E936DA6367AACD2C1 /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
+		554718FCC33A020E9BA56D9A /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
+		8C29BEE14A91E91E0379EA3A /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		E85DEACE1A2D562900ADE57A /* RegisterPractice1202.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RegisterPractice1202.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E85DEAD21A2D562900ADE57A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E85DEAD31A2D562900ADE57A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -40,6 +65,27 @@
 		E85DEAE71A2D562900ADE57A /* RegisterPractice1202Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RegisterPractice1202Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E85DEAEC1A2D562900ADE57A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E85DEAED1A2D562900ADE57A /* RegisterPractice1202Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RegisterPractice1202Tests.m; sourceTree = "<group>"; };
+		E85DEAF71A2D690500ADE57A /* alphacamp@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "alphacamp@2x.png"; sourceTree = "<group>"; };
+		E85DEB6A1A2EC29600ADE57A /* img_info _birth.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "img_info _birth.png"; sourceTree = "<group>"; };
+		E85DEB6B1A2EC29600ADE57A /* img_info _birth@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "img_info _birth@2x.png"; sourceTree = "<group>"; };
+		E85DEB6C1A2EC29600ADE57A /* img_info_account.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = img_info_account.png; sourceTree = "<group>"; };
+		E85DEB6D1A2EC29600ADE57A /* img_info_account@2z.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "img_info_account@2z.png"; sourceTree = "<group>"; };
+		E85DEB6E1A2EC29600ADE57A /* img_info_address.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = img_info_address.png; sourceTree = "<group>"; };
+		E85DEB6F1A2EC29600ADE57A /* img_info_address@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "img_info_address@2x.png"; sourceTree = "<group>"; };
+		E85DEB701A2EC29600ADE57A /* img_info_gender.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = img_info_gender.png; sourceTree = "<group>"; };
+		E85DEB711A2EC29600ADE57A /* img_info_gender@2z.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "img_info_gender@2z.png"; sourceTree = "<group>"; };
+		E85DEB721A2EC29600ADE57A /* img_info_name.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = img_info_name.png; sourceTree = "<group>"; };
+		E85DEB731A2EC29600ADE57A /* img_info_name@2X.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "img_info_name@2X.png"; sourceTree = "<group>"; };
+		E85DEB741A2EC29600ADE57A /* img_info_password.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = img_info_password.png; sourceTree = "<group>"; };
+		E85DEB751A2EC29600ADE57A /* img_info_password@2z.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "img_info_password@2z.png"; sourceTree = "<group>"; };
+		E85DEB761A2EC29600ADE57A /* img_info_phone1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = img_info_phone1.png; sourceTree = "<group>"; };
+		E85DEB771A2EC29600ADE57A /* img_info_phone1@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "img_info_phone1@2x.png"; sourceTree = "<group>"; };
+		E85DEB781A2EC29600ADE57A /* img_info_phone2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = img_info_phone2.png; sourceTree = "<group>"; };
+		E85DEB791A2EC29600ADE57A /* img_info_phone2@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "img_info_phone2@2x.png"; sourceTree = "<group>"; };
+		E85DEB8B1A2EC36300ADE57A /* img_moredetail.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = img_moredetail.png; sourceTree = "<group>"; };
+		E85DEB8C1A2EC36300ADE57A /* img_moredetail@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "img_moredetail@2x.png"; sourceTree = "<group>"; };
+		E85DEB8D1A2EC36300ADE57A /* img_moreoption.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = img_moreoption.png; sourceTree = "<group>"; };
+		E85DEB8E1A2EC36300ADE57A /* img_moreoption@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "img_moreoption@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,6 +93,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A20A93E6120C05FC65326DB5 /* libPods.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -60,12 +107,31 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		9AC355AEFA64427D419491E2 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				554718FCC33A020E9BA56D9A /* Pods.debug.xcconfig */,
+				262C374E936DA6367AACD2C1 /* Pods.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		E2CC0A4E29907EA12BD3C4F1 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				8C29BEE14A91E91E0379EA3A /* libPods.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		E85DEAC51A2D562900ADE57A = {
 			isa = PBXGroup;
 			children = (
 				E85DEAD01A2D562900ADE57A /* RegisterPractice1202 */,
 				E85DEAEA1A2D562900ADE57A /* RegisterPractice1202Tests */,
 				E85DEACF1A2D562900ADE57A /* Products */,
+				9AC355AEFA64427D419491E2 /* Pods */,
+				E2CC0A4E29907EA12BD3C4F1 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -96,6 +162,8 @@
 		E85DEAD11A2D562900ADE57A /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				E85DEB691A2EC29600ADE57A /* icons */,
+				E85DEAF71A2D690500ADE57A /* alphacamp@2x.png */,
 				E85DEAD21A2D562900ADE57A /* Info.plist */,
 				E85DEAD31A2D562900ADE57A /* main.m */,
 			);
@@ -119,6 +187,41 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		E85DEB691A2EC29600ADE57A /* icons */ = {
+			isa = PBXGroup;
+			children = (
+				E85DEB8A1A2EC36300ADE57A /* icons_set2 */,
+				E85DEB6A1A2EC29600ADE57A /* img_info _birth.png */,
+				E85DEB6B1A2EC29600ADE57A /* img_info _birth@2x.png */,
+				E85DEB6C1A2EC29600ADE57A /* img_info_account.png */,
+				E85DEB6D1A2EC29600ADE57A /* img_info_account@2z.png */,
+				E85DEB6E1A2EC29600ADE57A /* img_info_address.png */,
+				E85DEB6F1A2EC29600ADE57A /* img_info_address@2x.png */,
+				E85DEB701A2EC29600ADE57A /* img_info_gender.png */,
+				E85DEB711A2EC29600ADE57A /* img_info_gender@2z.png */,
+				E85DEB721A2EC29600ADE57A /* img_info_name.png */,
+				E85DEB731A2EC29600ADE57A /* img_info_name@2X.png */,
+				E85DEB741A2EC29600ADE57A /* img_info_password.png */,
+				E85DEB751A2EC29600ADE57A /* img_info_password@2z.png */,
+				E85DEB761A2EC29600ADE57A /* img_info_phone1.png */,
+				E85DEB771A2EC29600ADE57A /* img_info_phone1@2x.png */,
+				E85DEB781A2EC29600ADE57A /* img_info_phone2.png */,
+				E85DEB791A2EC29600ADE57A /* img_info_phone2@2x.png */,
+			);
+			path = icons;
+			sourceTree = "<group>";
+		};
+		E85DEB8A1A2EC36300ADE57A /* icons_set2 */ = {
+			isa = PBXGroup;
+			children = (
+				E85DEB8B1A2EC36300ADE57A /* img_moredetail.png */,
+				E85DEB8C1A2EC36300ADE57A /* img_moredetail@2x.png */,
+				E85DEB8D1A2EC36300ADE57A /* img_moreoption.png */,
+				E85DEB8E1A2EC36300ADE57A /* img_moreoption@2x.png */,
+			);
+			path = icons_set2;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -126,9 +229,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = E85DEAF11A2D562900ADE57A /* Build configuration list for PBXNativeTarget "RegisterPractice1202" */;
 			buildPhases = (
+				65810ACE87C32F005D034805 /* Check Pods Manifest.lock */,
 				E85DEACA1A2D562900ADE57A /* Sources */,
 				E85DEACB1A2D562900ADE57A /* Frameworks */,
 				E85DEACC1A2D562900ADE57A /* Resources */,
+				ACA3D3FE6008F13BB8832342 /* Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -199,9 +304,30 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E85DEB801A2EC29600ADE57A /* img_info_gender.png in Resources */,
+				E85DEB871A2EC29600ADE57A /* img_info_phone1@2x.png in Resources */,
+				E85DEB851A2EC29600ADE57A /* img_info_password@2z.png in Resources */,
+				E85DEB8F1A2EC36300ADE57A /* img_moredetail.png in Resources */,
+				E85DEB841A2EC29600ADE57A /* img_info_password.png in Resources */,
+				E85DEAF81A2D690500ADE57A /* alphacamp@2x.png in Resources */,
+				E85DEB881A2EC29600ADE57A /* img_info_phone2.png in Resources */,
+				E85DEB7F1A2EC29600ADE57A /* img_info_address@2x.png in Resources */,
 				E85DEADD1A2D562900ADE57A /* Main.storyboard in Resources */,
+				E85DEB861A2EC29600ADE57A /* img_info_phone1.png in Resources */,
+				E85DEB921A2EC36300ADE57A /* img_moreoption@2x.png in Resources */,
+				E85DEB7E1A2EC29600ADE57A /* img_info_address.png in Resources */,
+				E85DEB811A2EC29600ADE57A /* img_info_gender@2z.png in Resources */,
+				E85DEB901A2EC36300ADE57A /* img_moredetail@2x.png in Resources */,
+				E85DEB7D1A2EC29600ADE57A /* img_info_account@2z.png in Resources */,
+				E85DEB7A1A2EC29600ADE57A /* img_info _birth.png in Resources */,
+				E85DEB911A2EC36300ADE57A /* img_moreoption.png in Resources */,
 				E85DEAE21A2D562900ADE57A /* LaunchScreen.xib in Resources */,
+				E85DEB831A2EC29600ADE57A /* img_info_name@2X.png in Resources */,
+				E85DEB821A2EC29600ADE57A /* img_info_name.png in Resources */,
+				E85DEB7C1A2EC29600ADE57A /* img_info_account.png in Resources */,
 				E85DEADF1A2D562900ADE57A /* Images.xcassets in Resources */,
+				E85DEB891A2EC29600ADE57A /* img_info_phone2@2x.png in Resources */,
+				E85DEB7B1A2EC29600ADE57A /* img_info _birth@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -213,6 +339,39 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		65810ACE87C32F005D034805 /* Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		ACA3D3FE6008F13BB8832342 /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods/Pods-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		E85DEACA1A2D562900ADE57A /* Sources */ = {
@@ -341,6 +500,7 @@
 		};
 		E85DEAF21A2D562900ADE57A /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 554718FCC33A020E9BA56D9A /* Pods.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = RegisterPractice1202/Info.plist;
@@ -351,6 +511,7 @@
 		};
 		E85DEAF31A2D562900ADE57A /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 262C374E936DA6367AACD2C1 /* Pods.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = RegisterPractice1202/Info.plist;
@@ -412,6 +573,7 @@
 				E85DEAF31A2D562900ADE57A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E85DEAF41A2D562900ADE57A /* Build configuration list for PBXNativeTarget "RegisterPractice1202Tests" */ = {
 			isa = XCConfigurationList;
@@ -420,6 +582,7 @@
 				E85DEAF61A2D562900ADE57A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
